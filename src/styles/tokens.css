@@ -1,0 +1,43 @@
+/* iMindz Education — brand tokens
+   Source: Claude Design canvas (versions 1A–7A), slug 7667a308-64c9-49bf-9ad9-0724a24c85ef
+   Do not invent new colors here — add to the canvas first, then mirror the value.
+*/
+:root {
+  /* Signed-in app chrome (Math/Science subject pages, My Home Page) */
+  --imz-navy-900: #0a1830;
+  --imz-navy-700: #0e2a52;
+
+  /* Public marketing pages (Home, Meet Jarvis, Curriculum, Pricing banner) */
+  --imz-green-900: #113d2f;
+  --imz-green-600: #2e9e63;
+
+  /* Page backgrounds */
+  --imz-cream: #faf6ec;
+  --imz-white: #ffffff;
+  --imz-border: #ece4d1;
+  --imz-border-strong: #d9d0b8;
+
+  /* Accent */
+  --imz-amber-600: #d98a3d;
+  --imz-amber-400: #e5a758;
+
+  /* Topic badges */
+  --imz-purple-600: #6b4fbb;
+
+  /* Jarvis (AI) chat bubble */
+  --imz-mint-200: #d7f0e1;
+  --imz-mint-900: #1c5a3f;
+
+  /* User chat bubble */
+  --imz-sky-200: #dceafb;
+  --imz-sky-900: #1c3b63;
+
+  /* Text */
+  --imz-text: #15213b;
+  --imz-text-muted: #6b7280;
+  --imz-text-faint: #8a8370;
+
+  /* Fonts */
+  --imz-font-heading: "Plus Jakarta Sans", ui-sans-serif, system-ui, sans-serif;
+  --imz-font-body: "Inter", ui-sans-serif, system-ui, sans-serif;
+}
